@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,700&display=swap');
 
 body {
-    background-image: url(Gradient.gif);
+    background-image: url(../Gradient.gif);
     background-size: 100%;
 }
 #boxlogin {
@@ -11,7 +11,7 @@ body {
     border-radius: 15px ;
     padding:5px ;
     border: solid au #000 ;
-    background-image: url(bg.png);
+    background-image: url(../bg.png);
     background-size: 515px 265px;
     -webkit-border-radius: 15px ;
     -moz-border-radius: 15px ;
@@ -62,7 +62,7 @@ body {
     width:35px;
     height:35px;
     margin: 10px;
-    background-image: url("GITHUB-LOGO.png");
+    background-image: url(../GITHUB-LOGO.png);
     background-size: 185%;
     background-position: -15px;
     background-repeat: no-repeat;
